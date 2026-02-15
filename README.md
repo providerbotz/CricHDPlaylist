@@ -1,30 +1,13 @@
 
 <h1 align="center">
   <br>
-  <a href=""><img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/image/logo.jpg" alt="🔥CricHD🔥" width="200"></a>
+  <a href=""><img src="IMAGE-logo" alt="🔥CricHD🔥" width="200"></a>
   <br>
   🔥CricHd playlist🔥
   <br>
 </h1>
 
 <h2 align="center">A Script to trigger the GitHub Actions every 15 minute to update the Channels Link</h2>
-
-<p align="center">
-  <a href="https://www.python.org/">
-    <img src="https://img.shields.io/badge/Made_With-Python_3.12%2B-blue"
-         alt="Gitter">
-  
-  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
-      <img src="">
-  </a>
-  <a href="https://play.google.com/store/apps/details?id=com.banglalink.toffee">
-    <img src="https://raw.githubusercontent.com/abusaeeidx/CricHd-playlists-Auto-Update-permanent/refs/heads/main/image/ban2.png">
-  </a>
-  </a>
-  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://img.shields.io/badge/Made%20in-Bangladesh_🇧🇩-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square"></a>
-<a href="https://hits.seeyoufarm.com"><img src=""/></a>
-</p>
-
 # 📒 Introduction
 
 **⚡ Crichd Playlist Scraper** is a lightweight and smart script that extracts live sports stream links from the Crichd website and converts them into an **M3U playlist**.
@@ -77,7 +60,7 @@
 
 
 # 🚬Credits
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=ABU+SAEEID+X+NOOB)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=100&color=FF2C10&background=31FF9400&width=400&lines=LAZY+PROVIDER+VERY+LAZY)](https://git.io/typing-svg)
 
 # 📝Note
 * The following code is for educational purposes only. It demonstrates how to authenticate and stream IPTV. Do not use it for any illegal or harmful activities. If the code affects the revenue of the IPTV owners, please let me  and I will delete it.
@@ -94,7 +77,7 @@ Your clicks make a difference
 Help us keep this project alive and growing — **without spending a penny**.  
 Every time you click an ad, you're giving a **free donation** — like handing us a virtual coffee ☕ — powered by ads!
 
-### [✨ Click Here to Donate for Free! ✨](https://abusaeeidx.github.io/Support/)
+### [✨ Click Here to Donate for Free! ✨]()
 
 > ✅ 100% Free | ❌ No Payment Needed | 🖱️ Just One Click = Big Help!
 
@@ -114,4 +97,4 @@ Every time you click an ad, you're giving a **free donation** — like handing u
 crichd playlist
 #crichdplaylist
 #crichdplaylist
-# By ABU SAEEID X
+# By **LAZY PROVIDER***
